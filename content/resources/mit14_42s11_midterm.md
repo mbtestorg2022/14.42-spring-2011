@@ -5,6 +5,7 @@ description: Solutions to a midterm exam consisting of short answer questions on
   and quantitative questions on consumers, producers, and equilibrium.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-42-environmental-policy-and-economics-spring-2011/fca56f0cc0368d2d9aee18bc2bbc7845_MIT14_42S11_midterm.pdf
 file_type: application/pdf
+parent_uid: 20ea5fe6-f6ac-5cf4-7fc4-3210feeb54ac
 resourcetype: Document
 title: Midterm 2011
 uid: fca56f0c-c036-8d2d-9aee-18bc2bbc7845
